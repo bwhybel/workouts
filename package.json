@@ -41,5 +41,7 @@
     "sass-loader": "^8.0.2",
     "typescript": "~4.1.5",
     "vue-jest": "^5.0.0-0"
-  }
+  },
+  "_id": "workouts@0.1.0",
+  "readme": "ERROR: No README data found!"
 }
